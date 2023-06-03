@@ -11,7 +11,4 @@ https://colab.research.google.com/drive/1teEEtnplL-ib1zIClEe3loTpYqcLZw0q?usp=sh
 PARKINSON MODEL:
 https://colab.research.google.com/drive/19jyvw5GPQ19tn_XQELHRX8WenlwTUw0t?usp=sharing
 
-
-DFD 
-SCREENSHOT
-DATA FLOW DIAGRAM
+These are my collab link where you can access the code for the disease model if the .pkl don't run.
